@@ -1,3 +1,20 @@
+.h1-h{
+    color:#303F9F;
+    font-family: 'Poppins', sans-serif;
+}
+
+.p-h{
+    color:grey;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.a-h{
+    background-color:#303F9F;
+    padding: 10px;
+    color:white;
+    font-family: 'Poppins', sans-serif;
+}
+
 .h1-a{
     color:#388E3C;
     font-family: 'Poppins', sans-serif;
